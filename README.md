@@ -1,14 +1,7 @@
 # IGN Generator
 
-A sleek, minimalist in-game name generator inspired by professional esports players. Built with vanilla HTML, CSS, and JavaScript.
-
-## Features
-
-- Clean, modern design using Catppuccin Mocha theme
-- One-click name generation
-- Copy to clipboard functionality
-- Fully responsive layout
-- Smooth animations and transitions
+minimal ign (in game name generator) 
+direct link if you're lazy - https://ign-gen.vercel.app/
 
 ## Usage
 
