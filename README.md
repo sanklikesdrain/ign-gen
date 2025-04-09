@@ -1,6 +1,7 @@
 # IGN Generator
 
 minimal ign (in game name generator) 
+direct link if you're lazy - https://ign-gen.vercel.app/
 
 ## Usage
 
