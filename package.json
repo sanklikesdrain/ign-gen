@@ -1,0 +1,22 @@
+{
+  "name": "ign-generator",
+  "version": "1.0.0",
+  "description": "A sleek, minimalist in-game name generator inspired by professional esports players",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [
+    "ign",
+    "generator",
+    "esports",
+    "gaming"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+} 
